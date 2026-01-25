@@ -1,14 +1,31 @@
 ## Hi, I'm Mukul 👋
 
 🎓 CS Student  
-💻 Learning Web Dev & Python  
-🚀 Building projects  
+💻 Web Developer & Python Learner  
+🚀 Building real-world projects  
 
-### Skills
+---
+
+### 🛠 Skills
 - HTML, CSS, JavaScript
 - Python
 - Git & GitHub
 
-### Current Focus
-- Web Projects
-- CS50
+---
+
+### 📌 Current Focus
+- Web Development Projects
+- CS50 (Harvard)
+- Problem Solving
+
+---
+
+### 🌱 Goals (2026)
+- Build 10+ strong projects
+- Contribute to Open Source
+- Land an Internship
+
+---
+
+### 📫 Connect
+- GitHub: @Mukul09kukreja
