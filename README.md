@@ -7,9 +7,11 @@
 ---
 
 ### 🛠 Skills
-- HTML, CSS, JavaScript
+- HTML, CSS
 - Python
 - Git & GitHub
+- C++
+- C
 
 ---
 
