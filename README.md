@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://github.com/Mukul09kukreja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mukul09kukreja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mukul-kukreja-5405b8370/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukul-kukreja-5405b8370/" height="30" width="40" /></a>
-<a href="https://youtube.com/https://www.youtube.com/@GamingMax146v9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@GamingMax146v9" height="30" width="40" /></a>
+<a href="https://youtube.com/@GamingMax146v9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@GamingMax146v9" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/MukulKukreja009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="MukulKukreja009" height="30" width="40" /></a>
 </p>
 
