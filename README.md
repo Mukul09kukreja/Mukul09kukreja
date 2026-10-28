@@ -1,183 +1,22 @@
-<div align="center">
+# Hi 👋, I'm Mukul Kumar Kukreja
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:052e16,100:00ff88&text=MUKUL.EXE&fontColor=00ff88&fontSize=65&fontAlignY=38&desc=SYSTEM%20OVERRIDE%20%2F%2F%20ACCESS%20GRANTED&descAlignY=60&descSize=17&animation=twinkling" width="100%" />
+### A Nerdy developer
 
-<a href="https://github.com/Mukul09Kukreja">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2300&pause=700&color=00FF88&center=true&vCenter=true&repeat=true&width=750&height=65&lines=Hello%2C+World.+I'm+Mukul.;I+build+things+that+probably+shouldn't+exist.;Breaking+stuff+is+part+of+the+process.;Turning+caffeine+into+questionable+code.;ERROR+404%3A+Normal+Developer+Not+Found.;Let's+build+something+fucking+crazy." alt="Animated typing introduction" />
-</a>
+- 🔭 I'm currently working on **Satellite Super Resolution**
 
-<br/>
+- 🌱 I'm currently learning **Machine Learning and Rust**
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/MODE-CHAOS-ff0055?style=for-the-badge&labelColor=050505" />
-<img src="https://komarev.com/ghpvc/?username=Mukul09Kukreja&style=for-the-badge&color=00ff88&label=PROFILE+VISITORS" />
+- 👯 I'm looking to collaborate on **open source projects**
 
-</div>
+- 📫 How to reach me **mukulkukreja009@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Mukul09kukreja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mukul09kukreja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukul-kukreja-5405b8370/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukul-kukreja-5405b8370/" height="30" width="40" /></a>
+<a href="https://youtube.com/https://www.youtube.com/@GamingMax146v9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@GamingMax146v9" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/MukulKukreja009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="MukulKukreja009" height="30" width="40" /></a>
+</p>
 
-### `root@mukul:~$ whoami`
-
-```yaml
-name: Mukul Kumar Kukreja
-education: BML Munjal University
-
-current_status: Building. Breaking. Learning. Repeating.
-
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - System Architecture
-  - Low-Level Programming
-  - Weird Ideas That Might Actually Work
-
-life_goal: Build something crazy.
-
-developer_mode: ENABLED
-sanity_level: questionable
-```
-
-I'm a developer who likes going down rabbit holes.
-
-One minute I'm exploring **machine learning**, the next I'm trying to understand **how computers actually work beneath all those abstractions**.
-
-I don't want to just use technology.
-
-**I want to understand it, break it, rebuild it, and create something nobody expected.**
-
-```bash
-$ ./mukul --mission
-
-[+] Learn things that seem impossible
-[+] Build systems from scratch
-[+] Experiment with ridiculous ideas
-[+] Break code until it makes sense
-[+] Repeat until something extraordinary happens
-
-[SUCCESS] Curiosity.exe is running...
-```
-
----
-
-### `root@mukul:~$ cat tech_stack.json`
-
-<div align="center">
-
-**`// LANGUAGES`**
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust,js&theme=dark" />
-
-<br/><br/>
-
-**`// WEB DEVELOPMENT`**
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-
-<br/><br/>
-
-**`// TOOLS & ENVIRONMENT`**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-
-<br/><br/>
-
-**`// CURRENT OBSESSIONS`**
-
-![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-0d1117?style=for-the-badge&logoColor=00ff88)
-![AI](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-0d1117?style=for-the-badge&logoColor=00ff88)
-![System Architecture](https://img.shields.io/badge/SYSTEM_ARCHITECTURE-0d1117?style=for-the-badge&logoColor=00ff88)
-![Low Level](https://img.shields.io/badge/LOW_LEVEL_SYSTEMS-0d1117?style=for-the-badge&logoColor=00ff88)
-
-</div>
-
----
-
-### `root@mukul:~$ ./github_stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mukul09Kukreja&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff&icon_color=00ff88" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul09Kukreja&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff" height="170" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Mukul09Kukreja&theme=dark&hide_border=true&background=000000&ring=00FF88&fire=FF0055&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=888888" />
-
-</div>
-
----
-
-### `root@mukul:~$ ./activity --visualize`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukul09Kukreja&bg_color=000000&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=003b20&hide_border=true" width="100%" />
-
-</div>
-
----
-
-### `root@mukul:~$ sudo unleash_chaos`
-
-<div align="center">
-
-**MY CONTRIBUTIONS ARE BEING EATEN ALIVE**
-
-<img src="https://raw.githubusercontent.com/Mukul09Kukreja/Mukul09Kukreja/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
-
-<sub>The snake requires the GitHub Actions workflow described below.</sub>
-
-</div>
-
----
-
-### `root@mukul:~$ cat philosophy.txt`
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  RULE #01   If it works, understand why.                │
-│                                                         │
-│  RULE #02   If it breaks, make it better.                │
-│                                                         │
-│  RULE #03   If it sounds impossible, investigate.       │
-│                                                         │
-│  RULE #04   Don't just consume technology. Build it.    │
-│                                                         │
-│  RULE #05   NORMAL IS BORING.                            │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-### `root@mukul:~$ connect --with-me`
-
-<div align="center">
-
-<a href="https://github.com/Mukul09Kukreja">
-<img src="https://img.shields.io/badge/GITHUB-Mukul09Kukreja-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
-
-<br/><br/>
-
-**Got a weird idea? A difficult problem? Something that sounds completely insane?**
-
-**GOOD. WE'LL GET ALONG.**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=while(alive)+%7B+learn()%3B+build()%3B+breakThings()%3B+%7D;The+next+big+thing+starts+with+a+stupid+idea.;SYSTEM+STATUS%3A+STILL+BUILDING..." />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=110&section=footer" width="100%" />
-
-**`[ END OF TRANSMISSION ]`**
-
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a></p>
